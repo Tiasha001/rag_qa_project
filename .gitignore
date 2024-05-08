@@ -1,0 +1,7 @@
+.env
+log_history.csv
+log_history1.csv
+test1.py
+sample_rag.py
+chroma.log
+llm_env/*
