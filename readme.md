@@ -3,7 +3,8 @@
 1. create a virtual environment with python
 2. install the packages inside the env `pip install -r requirements.txt`
 3. change the input file name and openai key in the .env file 
-4. run process.py `python process.py`
+4. run chroma on a different terminal. `chroma run --path /db_path`
+5. then run process.py `python process.py`
 
 
 ## EXAMPLE
